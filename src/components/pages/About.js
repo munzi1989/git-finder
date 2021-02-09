@@ -8,10 +8,6 @@ const About = () => {
       <p>Version 1.0.0</p>
       <br />
       <br />
-      <h3>
-        Using React's classes and local state data. Will refactor using
-        functional components and hooks
-      </h3>
     </Fragment>
   );
 };
